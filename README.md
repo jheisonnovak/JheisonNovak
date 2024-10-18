@@ -4,8 +4,10 @@
 
 <div>
     <a href="https://github.com/JheisonNovak">
-    <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=shadow_red&count_private=true&cache_seconds=600"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=JheisonNovak&layout=compact&theme=shadow_red&cache_seconds=600"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=chartreuse-dark&count_private=true&cache_seconds=600#gh-dark-mode-only"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=swift&count_private=true&cache_seconds=600#gh-light-mode-only"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=JheisonNovak&layout=compact&theme=chartreuse-dark&cache_seconds=600#gh-dark-mode-only"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=JheisonNovak&layout=compact&theme=swift&cache_seconds=600#gh-light-mode-only"/>
 </div>
 
 ### 🛠️ Tecnologias e Ferramentas:
