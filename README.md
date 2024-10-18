@@ -13,7 +13,7 @@
             srcset="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=swift&count_private=true&cache_seconds=600"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=swift&count_private=true&cache_seconds=600" />
+        <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=swift&count_private=true&cache_seconds=600" />
     </picture>
     <picture>
         <source 
@@ -24,7 +24,7 @@
             srcset="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=JheisonNovak&layout=compact&theme=swift&cache_seconds=600"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=JheisonNovak&layout=compact&theme=swift&cache_seconds=600" />
+        <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=JheisonNovak&layout=compact&theme=swift&cache_seconds=600" />
     </picture>
 </div>
 
