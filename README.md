@@ -3,6 +3,17 @@
 ### 📊 Estatísticas do GitHub:
 
 <div>
+    <picture>
+        <source 
+            srcset="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=chartreuse-dark&count_private=true&cache_seconds=600"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source 
+            srcset="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=swift&count_private=true&cache_seconds=600"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=swift&count_private=true&cache_seconds=600" />
+    </picture>
     <a href="https://github.com/JheisonNovak">
     <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=chartreuse-dark&count_private=true&cache_seconds=600#gh-dark-mode-only"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=swift&count_private=true&cache_seconds=600#gh-light-mode-only"/>
