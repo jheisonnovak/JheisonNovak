@@ -4,8 +4,8 @@
 
 <div>
     <a href="https://github.com/JheisonNovak">
-    <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=dark&count_private=true&cache_seconds=600"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=JheisonNovak&layout=compact&theme=dark&cache_seconds=600"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=JheisonNovak&show_icons=true&theme=shadow_red&count_private=true&cache_seconds=600"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=JheisonNovak&layout=compact&theme=shadow_red&cache_seconds=600"/>
 </div>
 
 ### 🛠️ Tecnologias e Ferramentas:
