@@ -28,5 +28,5 @@
 <a href="https://www.linkedin.com/in/jheison-novak-017363288/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
 <a href="https://github.com/JheisonNovak" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
 
-![Snake animation](https://github.com/JheisonNovak/JheisonNovak/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation](https://github.com/JheisonNovak/JheisonNovak/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/JheisonNovak/JheisonNovak/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only?cache_seconds=600)
+![Snake animation](https://github.com/JheisonNovak/JheisonNovak/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only?cache_seconds=600)
